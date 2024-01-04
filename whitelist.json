@@ -1,0 +1,15 @@
+{
+  "authorized": [
+    {
+      "blogId": "1214881921235681869",
+      "domain": "cucas-demo.blogspot.com",
+      "username": "Shases"
+    },
+    {
+      "blogId": "9876543210987654321",
+      "domain": "anotherblog.blogspot.com",
+      "username": "user456"
+    }
+    // ... más entradas
+  ]
+}
