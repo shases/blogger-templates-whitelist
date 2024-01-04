@@ -1,6 +1,6 @@
 {
   "authorized": [
-    { "blogId": "1214881921235681869", "domain": "example.blogspot.com" },
+    { "blogId": "1214881921235681869", "domain": "cucas-demo.blogspot.com" },
     { "blogId": "9876543210987654321", "domain": "anotherexample.com" }
   ]
 }
